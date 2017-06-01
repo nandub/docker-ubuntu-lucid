@@ -1,4 +1,4 @@
-# ubuntu-lucid-docker
+# docker-ubuntu-lucid
 A patched version of the eol ubuntu lucid
 
 ## Docker Hub
