@@ -15,7 +15,6 @@ RUN apt-get update && apt-get --no-install-recommends install -y \
     build-essential \
     ca-certificates \
     curl \
-    wget \
- && rm -rf /var/lib/apt/lists/*
+    wget
 
 ENTRYPOINT ["/bin/bash"]
